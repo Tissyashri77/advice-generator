@@ -77,6 +77,19 @@
 }
 
 
+@media only screen and (min-width:600px) and (max-width:900px){
+
+    #card{
+        width: 60%;
+        gap: 20px;
+    }
+
+    #clicker{
+        top:440px;
+    }
+    
+}
+
 @media only screen and (max-width:500px){
 
     #card{
@@ -85,7 +98,7 @@
     }
 
     #clicker{
-        top:465px;
+        top:475px;
     }
     
 }
